@@ -1,0 +1,6 @@
+rootProject.name = 'multimodulePrac'
+include 'api'
+include 'domain'
+include 'batch'
+include 'core'
+
